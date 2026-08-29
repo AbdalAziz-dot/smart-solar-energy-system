@@ -192,7 +192,7 @@ This system is built as a functional **Proof-of-Concept (PoC)** under intense re
 ---
 
 ## 👨‍💻 Author
-**Hassan Saleh**  
+**AbdalAziz Saleh**  
 *Embedded Systems & IoT Firmware Developer*  
 * Specialized in low-level register optimization, signal processing, and robust telemetry gateway design.
 
